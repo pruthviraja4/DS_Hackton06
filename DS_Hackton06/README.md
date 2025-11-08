@@ -1,4 +1,4 @@
-# Urban AI Ops Data Science Suite (GPU, Full Datasets)
+# Urban AI Ops Data Science
 
 This project scaffold prepares end-to-end pipelines for five Kaggle datasets:
 - Flood Prediction: naiaykhalid/flood-prediction-dataset
@@ -7,8 +7,6 @@ This project scaffold prepares end-to-end pipelines for five Kaggle datasets:
 - US Accidents: sobhanmoosavi/us-accidents
 - Earthquake Events: warcoder/earthquake-dataset
 
-**You chose: GPU + Full datasets** — the project is configured to train a U-Net on GPU (PyTorch + CUDA)
-and runs tabular models on CPU/GPU where applicable.
 
 ## Important pre-reqs (host machine)
 - NVIDIA GPU with CUDA 11.7+ and nvidia-docker2 installed (for Docker GPU runtime)
